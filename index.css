@@ -1,0 +1,19 @@
+body {
+    background-color: gray;
+}
+
+.button_anmelden {
+    background-color: blue;
+}
+
+.button_anmelden:hover {
+    background-color: blueviolet;
+}
+
+.button_registrieren {
+    background-color: greenyellow;
+}
+
+.button_registrieren:hover {
+    background-color: green;
+}
