@@ -10,10 +10,10 @@ body {
     background-color: blueviolet;
 }
 
-.button_registrieren {
+.button_regestrieren {
     background-color: greenyellow;
 }
 
-.button_registrieren:hover {
+.button_regestrieren:hover {
     background-color: green;
 }
