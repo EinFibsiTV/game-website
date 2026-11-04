@@ -3,19 +3,20 @@ body {
 }
 
 .button_anmelden {
-    background-color: yellow;
+    background-color: lightblue;
 }
 
 .button_anmelden:hover {
-    background-color: blueviolet;
+    background-color: darkblue;
 }
 
 .button_regestrieren {
-    background-color: greenyellow;
+    background-color: gray;
 }
 
 .button_regestrieren:hover {
-    background-color: green;
+    background-color: darkgray;
+    
 }
 
 .seiten_umleitung {
