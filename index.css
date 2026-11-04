@@ -17,3 +17,15 @@ body {
 .button_regestrieren:hover {
     background-color: green;
 }
+
+.seiten_umleitung {
+    text-decoration: none;
+    color: aquamarine;
+    font: italic;
+}
+
+.seiten_umleitung:hover {
+    text-decoration: none;
+    font-size: larger;
+    color: aqua;
+}
