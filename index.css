@@ -34,5 +34,5 @@ body {
 .button_box {
     display: flex;
     justify-content: center;
-    gap: 15;
+    gap: 1rem;
 }
