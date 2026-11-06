@@ -38,6 +38,12 @@ body {
     right: 1rem;
 }
 
+.div_container_nav {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
 .seiten_umleitung_index {
     text-decoration: none;
     color: blueviolet;
