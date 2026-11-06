@@ -41,7 +41,7 @@ body {
 .div_container_nav {
     display: flex;
     justify-content: left;
-    gap: 1rem;
+    gap: 2rem;
 }
 
 .seiten_umleitung_index {
