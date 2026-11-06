@@ -33,14 +33,14 @@ body {
 
 .button_box {
     display: flex;
-    justify-content: center;
+    justify-content: right;
     gap: 1rem;
     right: 1rem;
 }
 
 .div_container_nav {
     display: flex;
-    justify-content: center;
+    justify-content: left;
     gap: 1rem;
 }
 
