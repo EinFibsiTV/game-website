@@ -37,3 +37,21 @@ body {
     gap: 1rem;
     right: 1rem;
 }
+
+.seiten_umleitung_index {
+    text-decoration: none;
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.seiten_umleitung_minesweeper {
+    text-decoration: none;
+    color: darkslategrey;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.seiten_umleitung_cookie {
+    text-decoration: none;
+    color: burlywood;
+    font-family: 'Courier New', Courier, monospace;
+}
